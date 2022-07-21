@@ -1,0 +1,16 @@
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.exe
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.deps.json
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.json
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.runtimeconfig.dev.json
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\ref\BridgePattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\bin\Debug\net5.0\BridgePattern.pdb
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.AssemblyInfo.cs
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\ref\BridgePattern.dll
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.pdb
+C:\Users\Merit.MSSPLACA002\source\repos\BridgePattern\BridgePattern\obj\Debug\net5.0\BridgePattern.genruntimeconfig.cache
